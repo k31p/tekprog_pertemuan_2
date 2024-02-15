@@ -1,11 +1,13 @@
 package org.example.soal1;
 
-//import java.io.*;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+ * Class ini berisi penyelesaian algoritma untuk soal no 1
+ * @author Yobel El'Roy Doloksaribu
+ * @since 2024-02-15
+ */
 public class Soal1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
