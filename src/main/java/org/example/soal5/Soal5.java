@@ -2,6 +2,11 @@ package org.example.soal5;
 
 import java.util.Scanner;
 
+/**
+ * Class ini berisi penyelesaian dari soal no 5
+ * @author Yobel El'Roy Doloksaribu
+ * @since 2024-02-15
+ */
 public class Soal5 {
     static public void main(String[] args){
         Scanner scanner = new Scanner(System.in);

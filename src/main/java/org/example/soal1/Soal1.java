@@ -22,6 +22,7 @@ public class Soal1 {
             realInput = scanner.nextBigInteger();
             if(realInput.compareTo(BigInteger.valueOf(Long.MAX_VALUE)) > 0){
                 System.out.println(realInput + " can't be fitted anywhere.");
+                counter++;
                 continue;
             }
 
